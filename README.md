@@ -1,6 +1,6 @@
 ### Hey there! I'm dev siri
-## A full stack developer and a ReactJS Developer
-Hi I'm Dev-Siri. A Web developer who is currently learning Javascript and React.js.
+## A full stack developer
+Hi I'm Dev-Siri. A Web developer currently learning Flutter & Dart.
 ## Frontend
 * HTML, CSS, Javascript, React.js, Redux, Sass, Typescript, Next.js
 ## Backend
