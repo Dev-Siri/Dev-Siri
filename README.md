@@ -1,1 +1,1 @@
-<img src="github-banner.png" alt="Profile Banner" />
+<img src="Banner.png" alt="Profile Banner" />
