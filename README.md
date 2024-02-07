@@ -3,7 +3,8 @@
 I write colorful text on dark background <br />
 thats it
 
-I use rust btw. not trying to show off or anything, but I throw my keyboard only 1 once per day. (I bet its less than how many times you do)
+I use rust btw.
+professional shtposter on the bird app.
 
 ### Links
 
