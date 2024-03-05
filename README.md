@@ -1,17 +1,45 @@
-# Introduction
+<style>
+  #twitter-link {
+    background-color: #1c1c1c;
+    display: flex;
+    gap: 5px;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px #272727 solid;
+    color: white;
+    transition-duration: 150ms;
+    outline-color: #212121;
 
-I write colorful text on dark background <br />
-thats it
+    &:hover {
+      background-color: #212121;
+    }
+  }
+</style>
 
-I use rust btw.
-professional shtposter on the bird app.
-
-### Links
-
-<a href="https://twitter.com/DevSiriTweets" title="Twitter">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" height="20" width="25" />
+<img
+  src="./images/banner.jpeg"
+  id="banner"
+  style="border-radius: 10px"
+/>
+<a
+  target="_blank"
+  rel="noopener noreferrer"
+  href="https://twitter.com/DevSiriTweets"
+  id="twitter-link"
+  aria-label="Dev-Siri (@DevSiriTweets) on Twitter">
+  <img
+    src="./images/twitter-logo.webp"
+    height="20"
+    width="25"
+  />
+  Twitter
 </a>
-
-<a href="https://youtube.com/@Dev-Siri" title="YouTube" style="margin-left: 10px;">
-  <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" height="20" width="20" />
-</a>
+<p style="font-size: 22px;">CEO of TheHorseCompany (Formally known as HTMX)</p>
+<p style="font-size: 18px;">
+  Professional shtposter on the bird app. <br />
+  Go check out my
+  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/DevSiriTweets">Twitter</a>
+  or face the consequences.
+</p>
