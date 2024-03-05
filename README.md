@@ -1,23 +1,3 @@
-<style>
-  #twitter-link {
-    background-color: #1c1c1c;
-    display: flex;
-    gap: 5px;
-    width: fit-content;
-    padding: 10px;
-    border-radius: 10px;
-    text-decoration: none;
-    border: 2px #272727 solid;
-    color: white;
-    transition-duration: 150ms;
-    outline-color: #212121;
-
-    &:hover {
-      background-color: #212121;
-    }
-  }
-</style>
-
 <img
   src="./images/banner.jpeg"
   id="banner"
@@ -27,7 +7,7 @@
   target="_blank"
   rel="noopener noreferrer"
   href="https://twitter.com/DevSiriTweets"
-  id="twitter-link"
+  style="background-color: #1c1c1c; display: flex; gap: 5px; width: fit-content; padding: 10px; border-radius: 10px; text-decoration: none; border: 2px #272727 solid; color: white; transition-duration: 150ms; outline-color: #212121;"
   aria-label="Dev-Siri (@DevSiriTweets) on Twitter">
   <img
     src="./images/twitter-logo.webp"
