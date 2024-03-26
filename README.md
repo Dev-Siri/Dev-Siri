@@ -1,15 +1,15 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&theme=dark&card_width=500"
     media="(prefers-color-scheme: dark)"
-    height="400"
-    width="700"
+    height="300"
+    width="500"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&card_width=500"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="400"
-    width="700"
+    width="500"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true" />
 </picture> <br />
