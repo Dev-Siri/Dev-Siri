@@ -1,21 +1,15 @@
-<img
-  src="./images/banner.jpeg"
-  id="banner"
-  style="border-radius: 10px"
-/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Siri&theme=dark)](https://github.com/Dev-Siri/github-readme-stats&theme=dark)
 <a
   href="https://twitter.com/DevSiriTweets"
-  style="background-color: #1c1c1c; display: flex; gap: 5px; width: fit-content; padding: 10px; border-radius: 10px; text-decoration: none; border: 2px #272727 solid; color: white; transition-duration: 150ms; outline-color: #212121;"
   aria-label="Dev-Siri (@DevSiriTweets) on Twitter">
   <img
-    src="./images/twitter-logo.webp"
-    height="20"
-    width="25"
+    src="./images/twitter-btn.png"
+    height="30"
+    width="90"
   />
-  Twitter
 </a>
-<p style="font-size: 22px;">CEO of TheHorseCompany (Formally known as HTMX)</p>
-<p style="font-size: 18px;">
+<p>CEO of TheHorseCompany (Formally known as HTMX)</p>
+<p>
   Professional shtposter on the bird app. <br />
   Go check out my
   <a href="https://twitter.com/DevSiriTweets">Twitter</a>
