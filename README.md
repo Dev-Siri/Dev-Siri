@@ -2,12 +2,14 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    width="400"
+    height="500"
+    width="800"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="400"
+    height="500"
+    width="800"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true" />
 </picture> <br />
