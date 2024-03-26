@@ -1,4 +1,14 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Siri&theme=dark)](https://github.com/Dev-Siri/github-readme-stats&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true" />
+</picture>
 <a
   href="https://twitter.com/DevSiriTweets"
   aria-label="Dev-Siri (@DevSiriTweets) on Twitter">
