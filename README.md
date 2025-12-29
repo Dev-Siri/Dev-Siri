@@ -1,18 +1,8 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&theme=dark&card_width=500"
-    media="(prefers-color-scheme: dark)"
-    height="300"
-    width="500"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true&card_width=500"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    height="400"
-    width="500"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Siri&show_icons=true" />
-</picture> <br />
+<p>I mainly use Go, Dart, TypeScript, and Rust. (Java too I guess, maybe)</p>
+<p>
+  Currently working on <a href="https://github.com/Dev-Siri/wavelength">wavelength</a>, I use this app myself as an ad-free, subscription-free, alternative to Spotify.
+  You'll see a lotta TS/Rust/Go repos centered around this one project because this is the only project with real users.
+</p>
 <a
   href="https://twitter.com/DevSiriTweets"
   aria-label="Dev-Siri (@DevSiriTweets) on Twitter">
@@ -24,7 +14,7 @@
 </a>
 <p>CEO of TheHorseCompany (Formally known as HTMX)</p>
 <p>
-  Professional shtposter on the bird app. <br />
+  <s>Professional shitposter on the bird app. </s> I don't even use this platform as much no more. <br />
   Go check out my
   <a href="https://twitter.com/DevSiriTweets">Twitter</a>
   or face the consequences.
